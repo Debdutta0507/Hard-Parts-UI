@@ -1,1 +1,2 @@
-# Hard-Parts-UI
+# Hard-Parts-UI 
+COURSE SLIDES AND EXERCISES
